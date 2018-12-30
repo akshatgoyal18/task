@@ -4,6 +4,8 @@ maths-45
 english -34
 science -45
 
+physics 34
+hindi 56
 
 
 
